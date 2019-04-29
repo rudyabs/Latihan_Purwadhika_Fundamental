@@ -1,4 +1,3 @@
-
 angka_1 = int(input("Masukan angka ke-1: "))
 angka_2 = int(input("Masukan angka ke-2: "))
 
